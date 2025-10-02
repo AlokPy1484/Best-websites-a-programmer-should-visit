@@ -6,7 +6,10 @@
 
 
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sdmg15/Best-websites-a-programmer-should-visit)
+<!--![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sdmg15/Best-websites-a-programmer-should-visit)-->
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sdmg15/Best-websites-a-programmer-should-visit?style=social)
+
 
 
 # Best-websites-a-programmer-should-visit
