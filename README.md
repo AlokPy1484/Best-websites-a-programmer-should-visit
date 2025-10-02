@@ -6,7 +6,7 @@
 
 
 
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlokPy1484/Best-websites-a-programmer-should-visit)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sdmg15/Best-websites-a-programmer-should-visit)
 
 
 # Best-websites-a-programmer-should-visit
